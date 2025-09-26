@@ -1,0 +1,536 @@
+[{
+  "_id": {
+    "$oid": "68c67a921dcc73dfce2d9a49"
+  },
+  "name": "Samsung Galaxy A70",
+  "description": "The Samsung Galaxy A70 is part of Samsung’s A-series (launched 2019), aiming at users wanting large display and battery, solid camera performance, and modern features without flagship pricing. It offers Snapdragon 675 processor, 6-8 GB RAM with 128 GB storage (expandable), a triple-rear camera setup (32 MP main, 8 MP ultra-wide, 5 MP depth), and a high-resolution 32 MP front camera. The phone also includes an under-display (optical) fingerprint sensor, “Infinity-U” notch display, and runs Android (originally 9 Pie) with Samsung’s One UI. Its build uses a plastic/glass composite (“Glasstic”) back, USB-C for charging, and retains the 3.5 mm headphone jack.",
+  "shortDescription": "A large-screen, mid-range Samsung phone with a 6.7\" Super AMOLED display, strong battery life (4,500 mAh), triple rear cameras, fast (25 W) charging, and substantial RAM & storage—designed for multime",
+  "category": "smartphone",
+  "brand": "Samsung",
+  "model": "SM-A705F/DS",
+  "price": 35000,
+  "originalPrice": 35000,
+  "images": [
+    {
+      "url": "/uploads/images-1758610416607-835700430.jpeg",
+      "alt": "Samsung Galaxy A70",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "68d243f4bc0db52686ef4d88"
+      }
+    }
+  ],
+  "specifications": {
+    "screenSize": "6.7 inches",
+    "resolution": "1080 * 2400 px (FHD+)",
+    "processor": "Qualcomm Snapdragon 675 (Octa-core: 2×2.0 GHz + 6×1.7 GHz)",
+    "ram": "6 GB or 8 GB",
+    "storage": "128 GB internal; expandable via microSD UPTO 512GB",
+    "camera": "Rear || Triple: 32 MP main (f/1.7), 8 MP ultra-wide, 5 MP depth sensor. Front || 32 MP (f/2.0) ",
+    "battery": "4,500 mAh, supports 25 W charging",
+    "operatingSystem": "Launched with Android 9.0 “Pie” + One UI; updated in many regions to Android 11 with One UI 3.1",
+    "connectivity": [
+      "Wireless: Wi-Fi 802.11 a/b/g/n/ac (dual-band)",
+      "Bluetooth: 5.0",
+      "NFC: Yes",
+      "USB: USB Type-C (USB 2.0)",
+      "3.5 mm headphone jack: Yes",
+      "SIM: Dual SIM standby; dual nano-SIM"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "weight": "183 grams",
+    "dimensions": "164.3 × 76.7 × 7.9 mm",
+    "compatibility": [],
+    "material": "Front: scratch-resistant glass (Gorilla Glass 3); back: plastic / “Glasstic” ; frame: plastic/glass composite",
+    "warranty": "12 Months"
+  },
+  "features": [
+    "Large 6.7\" Super AMOLED full-HD+ Infinity-U display",
+    "On-screen fingerprint reader + facial recognition",
+    "Triple rear cameras for wide, ultra-wide, and portrait (depth) shots",
+    "32 MP selfie camera",
+    "Big battery (4,500 mAh) with 25 W fast charging",
+    "Expandable storage (microSD up to ~512 GB)",
+    "Dual SIM support",
+    "Modern connectivity: USB-C, Bluetooth 5.0, NFC",
+    "One UI interface over Android, with software updates to Android 11 in many regions"
+  ],
+  "inStock": true,
+  "stockQuantity": 12,
+  "sku": "SAMS-A70-6GB128GB-CRL",
+  "tags": [
+    "Samsung",
+    "Galaxy A70",
+    "Super AMOLED",
+    "6.7-inch",
+    "32MP",
+    "4500mAh",
+    "fast charge",
+    "dual SIM",
+    "mid-range",
+    "One UI",
+    "128GB",
+    "8GB RAM"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "seo": {
+    "keywords": []
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-09-14T08:19:30.369Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-23T06:54:31.005Z"
+  },
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "68cbdf15d4a0a8b3c988e5e9"
+  },
+  "name": "Apple iPhone 12",
+  "description": "The iPhone 12 (launched October 2020) brings together Apple’s powerful A14 Bionic chip, 5G connectivity, and a modern flat-edge design with glass front and back and aluminum frame. It features a 6.1-inch OLED HDR display (Super Retina XDR) protected by Ceramic Shield glass, dual 12MP rear cameras (wide + ultra-wide), and a 12MP front (TrueDepth) camera. It is water and dust resistant (IP68), supports wireless charging including MagSafe, and ships with iOS (originally 14) with updates up to recent versions. Multiple storage options (64, 128, 256 GB) and several color choices make it suitable for varied preferences.",
+  "shortDescription": "Apple iPhone 12 with 6.1″ Super Retina XDR OLED, A14 Bionic chip, 5G support, dual 12MP cameras, MagSafe wireless charging, and Ceramic Shield durability.",
+  "category": "smartphone",
+  "brand": "iPhone",
+  "model": "iPhone12",
+  "price": 75000,
+  "originalPrice": 45000,
+  "images": [
+    {
+      "url": "/uploads/images-1758542543011-942745095.jpg",
+      "alt": "Apple iPhone 12",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "68d13ae2ba99cc424e0c3267"
+      }
+    }
+  ],
+  "specifications": {
+    "screenSize": "6.1 inches",
+    "resolution": "1170 × 2532 pixels (~460 ppi)",
+    "processor": "Apple A14 Bionic, 5 nm process, Hexa-core (2 performance + 4 efficiency cores)",
+    "ram": "4 GB",
+    "storage": "64 GB, 128 GB, 256 GB",
+    "camera": "Rear || Dual: 12 MP wide (f/1.6, OIS) + 12 MP ultra-wide (f/2.4)  Front || 12 MP (f/2.2), TrueDepth camera system",
+    "battery": "2,815 mAh (non-removable)",
+    "operatingSystem": "iOS 14 at launch; upgradable to recent iOS versions",
+    "connectivity": [
+      "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth 5.0",
+      "NFC with reader mode",
+      "Ultra Wideband (UWB) chip",
+      "5G (sub-6 GHz / some variants mmWave depending on region)",
+      "Dual SIM (physical nano-SIM + eSIM)"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Red",
+      "Green",
+      "Blue",
+      "Purple"
+    ],
+    "weight": "~164 g",
+    "dimensions": "146.7 × 71.5 × 7.4 mm",
+    "compatibility": [],
+    "material": "Glass front (Ceramic Shield), glass back, aluminum frame; IP68 rating",
+    "warranty": "12 Months"
+  },
+  "features": [
+    "5G capable (multiple bands)",
+    "Super Retina XDR OLED display with HDR10 / Dolby Vision support",
+    "Ceramic Shield front glass (more drop resistant)",
+    "Dual 12MP rear camera setup (wide + ultra-wide) with Night mode, Deep Fusion, Smart HDR etc.",
+    "MagSafe wireless charging + standard Qi wireless charging",
+    "IP68 rating for water/dust resistance (up to 6m for 30 minutes)",
+    "Face ID for biometric security",
+    "Multiple storage variants (64/128/256 GB)"
+  ],
+  "inStock": true,
+  "stockQuantity": 9,
+  "sku": "APPLE-IP12-4GB64GB-BLK",
+  "tags": [
+    "Apple",
+    "iPhone 12",
+    "iOS",
+    "A14 Bionic",
+    "5G",
+    "OLED",
+    "Super Retina XDR",
+    "Dual camera",
+    "MagSafe",
+    "IP68",
+    "64GB",
+    "128GB",
+    "256GB"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "seo": {
+    "keywords": []
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-09-18T10:29:41.302Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T12:33:41.359Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "68cbeb06d4a0a8b3c988e6f9"
+  },
+  "name": "Apple MagSafe Charger",
+  "description": "The Apple MagSafe Charger is a wireless magnetic charging pad built for compatibility with iPhones and other Qi-enabled Apple accessories. It uses built-in magnets to align precisely with MagSafe-compatible iPhones for efficient charging. When paired with suitable power adapters, it delivers fast wireless charging—including up to 25W on newer iPhones with a 30W USB-C adapter. Comes with either a 1 m or 2 m cable, recognized for its braided design in newer versions, and certified for Qi2 and Qi standards. Ideal for desks, bedside tables, or portable use.",
+  "shortDescription": "MagSafe Charger by Apple: magnetically aligns with compatible iPhones, delivers up to 25W wireless charging (with 30W adapter), certified Qi2 & Qi-wireless, 1m / 2m USB-C cable.",
+  "category": "charger",
+  "brand": "Apple",
+  "model": "A2580, A3250",
+  "price": 7000,
+  "originalPrice": 8500,
+  "images": [
+    {
+      "url": "/uploads/images-1758610615643-227020335.jpeg",
+      "alt": "Apple MagSafe Charger",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "68d244babc0db52686ef4df1"
+      }
+    }
+  ],
+  "specifications": {
+    "screenSize": "",
+    "resolution": "",
+    "processor": "",
+    "ram": "",
+    "storage": "",
+    "camera": "",
+    "battery": "",
+    "operatingSystem": "",
+    "connectivity": [
+      "iPhones 12, 13, 14, 15, 16, 17 series",
+      "AirPods with wireless charging case",
+      "older Qi devices (without magnetic alignment)",
+      "USB-C (on cable)",
+      "Wireless power transfer (Magnetic wireless, Qi/ Qi2)",
+      "USB-C cable connects to power adapter (power input)"
+    ],
+    "colors": [
+      "White"
+    ],
+    "weight": "",
+    "dimensions": "",
+    "compatibility": [],
+    "material": "Circular charging puck; magnets; soft white charging surface; wrapped cable (braided in newer version)",
+    "warranty": "12 Months"
+  },
+  "features": [
+    "Magnetic alignment for seamless MagSafe compatibility",
+    "Supports fast wireless charging up to 25W with appropriate adapter",
+    "Backward compatible with Qi wireless charging",
+    "Available with 1m or 2m USB-C cable",
+    "Certified for Qi2 and Qi standards"
+  ],
+  "inStock": true,
+  "stockQuantity": 14,
+  "sku": "A2580",
+  "tags": [
+    "MagSafe",
+    "Apple",
+    "Wireless charger",
+    "25W",
+    "Qi2",
+    "USB-C",
+    "1m cable",
+    "2m cable",
+    "magnetic alignment",
+    "iPhone accessories"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "seo": {
+    "keywords": []
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-09-18T11:20:38.101Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-23T06:56:58.941Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "68d24314bc0db52686ef4d1a"
+  },
+  "name": "Apple iPhone 7",
+  "description": "The Apple iPhone 7 features a 4.7-inch Retina HD display, powered by the A10 Fusion chip. It offers a 12MP rear camera with optical image stabilization and a 7MP front camera. The device is water and dust resistant (IP67), supports stereo speakers, and comes in multiple storage options (32GB, 128GB, 256GB).",
+  "shortDescription": "Compact smartphone with 4.7-inch Retina HD display, A10 Fusion chip, 12MP rear camera, 7MP front camera, and IP67 water/dust resistance.",
+  "category": "smartphone",
+  "brand": "Apple",
+  "model": "iPhone 7",
+  "price": 24300,
+  "originalPrice": 29899.95,
+  "images": [
+    {
+      "url": "/uploads/images-1758610188333-460686188.jpg",
+      "alt": "Apple iPhone 7",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "68d24314bc0db52686ef4d1b"
+      }
+    }
+  ],
+  "specifications": {
+    "screenSize": "4.7 inches",
+    "resolution": "1334 x 750 pixels",
+    "processor": "Apple A10 Fusion",
+    "ram": "2GB",
+    "storage": "32GB, 128GB, 256GB",
+    "camera": "Rear || 12MP with OIS FRONT || 7MP",
+    "battery": "1960 mAh",
+    "operatingSystem": "iOS 10, upgradable to iOS 15.7",
+    "connectivity": [
+      "Wireless: Wi‑Fi 802.11 a/b/g/n/ac, Bluetooth 4.2, GPS, NFC",
+      "Wired: Lightning connector"
+    ],
+    "colors": [
+      "Black",
+      "Jet Black",
+      "Gold",
+      "Rose Gold"
+    ],
+    "weight": "138 g",
+    "dimensions": "138.3 × 67.1 × 7.1 mm",
+    "compatibility": [],
+    "material": "Aluminum body",
+    "warranty": "1-year manufacturer warranty"
+  },
+  "features": [
+    "4.7-inch Retina HD display",
+    "A10 Fusion chip",
+    "12MP rear camera with optical image stabilization",
+    "7MP front camera",
+    "Stereo speakers",
+    "IP67 water and dust resistance",
+    "No headphone jack"
+  ],
+  "inStock": true,
+  "stockQuantity": 15,
+  "sku": "APPLE-IPHONE7-BV49",
+  "tags": [
+    "iPhone 7",
+    "Apple",
+    "Smartphone",
+    "4.7-inch display",
+    "A10 Fusion",
+    "12MP camera",
+    "iOS"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "seo": {
+    "keywords": []
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-09-23T06:49:56.217Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-23T06:49:56.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d247f3bc0db52686ef4e30"
+  },
+  "name": "Apple iPhone 11",
+  "description": "The Apple iPhone 11 features a 6.1-inch Liquid Retina HD display, powered by the A13 Bionic chip. It offers a dual 12MP rear camera system with Night mode and 4K video recording capabilities. The device includes Face ID for secure authentication and is water and dust resistant with an IP68 rating. Available in multiple colors and storage options.",
+  "shortDescription": "6.1-inch Liquid Retina display, A13 Bionic chip, dual 12MP rear cameras, 4K video recording, Face ID, and IP68 water resistance.",
+  "category": "smartphone",
+  "brand": "Apple",
+  "model": "iPhone 11",
+  "price": 37000,
+  "originalPrice": 45000,
+  "images": [
+    {
+      "url": "/uploads/images-1758612080056-644648936.jpg",
+      "alt": "Apple iPhone 11",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "68d24a74bc0db52686ef4e9c"
+      }
+    }
+  ],
+  "specifications": {
+    "screenSize": "6.1 inches",
+    "resolution": "1792 x 828 pixels",
+    "processor": "Apple A13 Bionic",
+    "ram": "4 GB",
+    "storage": "64 GB, 128 GB, 256 GB",
+    "camera": "FRONT || 12MP REAR || Dual 12MP (Wide & Ultra-Wide)",
+    "battery": "3110 mAh",
+    "operatingSystem": "iOS 13, upgradable to iOS 15.7",
+    "connectivity": [
+      "Wireless: Wi-Fi 802.11a/b/g/n/ac, Bluetooth 5.0, GPS, NFC",
+      "Wired: Lightning connector"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "value": "#000000",
+        "_id": {
+          "$oid": "68d39c383be0116273066d64"
+        }
+      },
+      {
+        "name": "White",
+        "value": "#FFFFFF",
+        "_id": {
+          "$oid": "68d39c383be0116273066d65"
+        }
+      },
+      {
+        "name": "Green",
+        "value": "#4CD964",
+        "_id": {
+          "$oid": "68d39c383be0116273066d66"
+        }
+      },
+      {
+        "name": "Red",
+        "value": "#FF3B30",
+        "_id": {
+          "$oid": "68d39c383be0116273066d67"
+        }
+      }
+    ],
+    "weight": "194g",
+    "dimensions": "150.9 × 75.7 × 8.3 mm",
+    "compatibility": [],
+    "material": "Aluminum and glass",
+    "warranty": "1-year manufacturer warranty",
+    "frontCamera": "12 MP",
+    "rearCamera": "Dual 12 MP (Wide & Ultra-Wide)"
+  },
+  "features": [
+    "6.1-inch Liquid Retina HD display",
+    "A13 Bionic chip",
+    "Dual 12MP rear cameras with Night mode",
+    "4K video recording at 60 fps",
+    "Face ID",
+    "IP68 water and dust resistance",
+    "Available in multiple colors"
+  ],
+  "inStock": true,
+  "stockQuantity": 12,
+  "sku": "APPLE-IPHONE11-4QDE",
+  "tags": [
+    "iPhone 11",
+    "Apple",
+    "Smartphone",
+    "6.1-inch display",
+    "A13 Bionic",
+    "12MP camera",
+    "iOS",
+    "Face ID",
+    "IP68",
+    "4K video"
+  ],
+  "ratings": {
+    "average": 4,
+    "count": 1
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "seo": {
+    "keywords": []
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "68c411f48100ac90f31bb708"
+      },
+      "rating": 4,
+      "comment": "The product delivery was seamless",
+      "_id": {
+        "$oid": "68d3c90386387bd1789a7598"
+      },
+      "createdAt": {
+        "$date": "2025-09-24T10:33:39.311Z"
+      },
+      "reply": {
+        "admin": {
+          "$oid": "68c6615f51f58af228cd6401"
+        },
+        "comment": "Thank you for your feedback",
+        "createdAt": {
+          "$date": "2025-09-25T06:36:59.431Z"
+        }
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-23T07:10:43.423Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-25T06:36:59.494Z"
+  },
+  "__v": 3,
+  "variants": [
+    {
+      "ram": "4 GB",
+      "storage": "64 GB",
+      "price": 25000,
+      "stockQuantity": 15,
+      "_id": {
+        "$oid": "68d39c383be0116273066d69"
+      }
+    },
+    {
+      "ram": "4 GB",
+      "storage": "128 GB",
+      "price": 28000,
+      "stockQuantity": 12,
+      "_id": {
+        "$oid": "68d39c383be0116273066d6a"
+      }
+    },
+    {
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "price": 32000,
+      "stockQuantity": 10,
+      "_id": {
+        "$oid": "68d39c383be0116273066d6b"
+      }
+    }
+  ]
+}]

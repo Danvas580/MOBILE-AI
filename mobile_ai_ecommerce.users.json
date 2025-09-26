@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "68c411f48100ac90f31bb708"
+  },
+  "name": "Peter Okemwa",
+  "email": "mirerapeter764@gmail.com",
+  "password": "$2a$12$pGzNX9sWsHp9cYyZf2ckkOdF7Xa3rhqoRuirUT8NPjcnjj3m8vSYC",
+  "role": "user",
+  "avatar": "",
+  "phone": "0713990730",
+  "preferences": {
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "currency": "USD",
+    "language": "en"
+  },
+  "wishlist": [
+    {
+      "$oid": "68cbdf15d4a0a8b3c988e5e9"
+    }
+  ],
+  "orderHistory": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-09-12T12:28:36.367Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T08:17:33.472Z"
+  },
+  "__v": 3,
+  "address": {
+    "street": "3370",
+    "city": "Thika",
+    "state": "",
+    "zipCode": "2060",
+    "country": "Kenya"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6615f51f58af228cd6401"
+  },
+  "name": "January Saro",
+  "email": "admin@gmail.com",
+  "password": "$2a$12$WlQNsj4JZDYwyAcxkLPXwe1/9dYffl.BkhryvWXoPomucOmaSY9yq",
+  "role": "admin",
+  "avatar": "",
+  "phone": "",
+  "preferences": {
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "currency": "USD",
+    "language": "en"
+  },
+  "wishlist": [
+    {
+      "$oid": "68c67a921dcc73dfce2d9a49"
+    },
+    {
+      "$oid": "68cbdf15d4a0a8b3c988e5e9"
+    }
+  ],
+  "orderHistory": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-09-14T06:31:59.865Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T10:36:50.939Z"
+  },
+  "__v": 2
+}]

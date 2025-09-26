@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "68d2780fa4c2f55ceb7eec87"
+  },
+  "user": {
+    "$oid": "68c411f48100ac90f31bb708"
+  },
+  "device": {
+    "brand": "Samsung",
+    "model": "A15",
+    "condition": "Good",
+    "year": 2023,
+    "storage": "128gb"
+  },
+  "offeredValue": 7000,
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-09-23T10:35:59.197Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-25T17:38:13.323Z"
+  },
+  "__v": 0
+}]

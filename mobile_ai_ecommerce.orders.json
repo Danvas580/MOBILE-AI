@@ -1,0 +1,438 @@
+[{
+  "_id": {
+    "$oid": "68cafde39de39c102f90d671"
+  },
+  "user": {
+    "$oid": "68c411f48100ac90f31bb708"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "68c67a921dcc73dfce2d9a49"
+      },
+      "quantity": 1,
+      "price": 3500,
+      "name": "Samsung Galaxy A70",
+      "image": "",
+      "_id": {
+        "$oid": "68cafde39de39c102f90d672"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Peter Okemwa",
+    "street": "3370",
+    "city": "Thika",
+    "state": "Kenya",
+    "zipCode": "2060",
+    "country": "Kenya"
+  },
+  "billingAddress": {
+    "name": "Peter Okemwa",
+    "street": "3370",
+    "city": "Thika",
+    "state": "Kenya",
+    "zipCode": "2060",
+    "country": "Kenya"
+  },
+  "paymentMethod": {
+    "type": "mpesa",
+    "details": {
+      "transactionId": "ws_CO_17092025212832872713990730"
+    }
+  },
+  "pricing": {
+    "subtotal": 3500,
+    "tax": 280,
+    "shipping": 0,
+    "total": 3780,
+    "discount": 0
+  },
+  "status": "delivered",
+  "createdAt": {
+    "$date": "2025-09-17T18:28:51.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-23T16:15:54.787Z"
+  },
+  "orderNumber": "ORD-1758133731524-0001",
+  "__v": 0,
+  "deliveredAt": {
+    "$date": "2025-09-23T16:15:54.786Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68cb0b1e8738083453f2d2c3"
+  },
+  "user": {
+    "$oid": "68c411f48100ac90f31bb708"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "68c67a921dcc73dfce2d9a49"
+      },
+      "quantity": 1,
+      "price": 35000,
+      "name": "Samsung Galaxy A70",
+      "image": "/uploads/images-1758135100806-338215041.jpeg",
+      "_id": {
+        "$oid": "68cb0b1e8738083453f2d2c4"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Peter Okemwa",
+    "street": "3370",
+    "city": "Thika",
+    "state": "Kenya",
+    "zipCode": "2060",
+    "country": "Kenya"
+  },
+  "billingAddress": {
+    "name": "Peter Okemwa",
+    "street": "3370",
+    "city": "Thika",
+    "state": "Kenya",
+    "zipCode": "2060",
+    "country": "Kenya"
+  },
+  "paymentMethod": {
+    "type": "mpesa",
+    "details": {
+      "transactionId": "ws_CO_17092025222433455713990730"
+    }
+  },
+  "pricing": {
+    "subtotal": 35000,
+    "tax": 2800,
+    "shipping": 0,
+    "total": 37800,
+    "discount": 0
+  },
+  "status": "delivered",
+  "createdAt": {
+    "$date": "2025-09-17T19:25:18.824Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-23T16:15:52.292Z"
+  },
+  "orderNumber": "ORD-1758137118832-0002",
+  "__v": 0,
+  "deliveredAt": {
+    "$date": "2025-09-23T16:15:52.291Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68cbc7b2d4a0a8b3c988e517"
+  },
+  "user": {
+    "$oid": "68c411f48100ac90f31bb708"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "68c67a921dcc73dfce2d9a49"
+      },
+      "quantity": 1,
+      "price": 35000,
+      "name": "Samsung Galaxy A70",
+      "image": "/uploads/images-1758135100806-338215041.jpeg",
+      "_id": {
+        "$oid": "68cbc7b2d4a0a8b3c988e518"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Peter Okemwa",
+    "street": "3370",
+    "city": "Thika",
+    "state": "Kenya",
+    "zipCode": "2060",
+    "country": "Kenya"
+  },
+  "billingAddress": {
+    "name": "Peter Okemwa",
+    "street": "3370",
+    "city": "Thika",
+    "state": "Kenya",
+    "zipCode": "2060",
+    "country": "Kenya"
+  },
+  "paymentMethod": {
+    "type": "mpesa",
+    "details": {
+      "transactionId": "ws_CO_18092025114943411713990730"
+    }
+  },
+  "pricing": {
+    "subtotal": 35000,
+    "tax": 2800,
+    "shipping": 0,
+    "total": 37800,
+    "discount": 0
+  },
+  "status": "delivered",
+  "createdAt": {
+    "$date": "2025-09-18T08:49:54.136Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-23T16:15:48.834Z"
+  },
+  "orderNumber": "ORD-1758185394152-0003",
+  "__v": 0,
+  "deliveredAt": {
+    "$date": "2025-09-23T16:15:48.833Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68cbc898d4a0a8b3c988e53e"
+  },
+  "user": {
+    "$oid": "68c411f48100ac90f31bb708"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "68c67a921dcc73dfce2d9a49"
+      },
+      "quantity": 2,
+      "price": 35000,
+      "name": "Samsung Galaxy A70",
+      "image": "/uploads/images-1758135100806-338215041.jpeg",
+      "_id": {
+        "$oid": "68cbc898d4a0a8b3c988e53f"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Peter Okemwa",
+    "street": "3370",
+    "city": "Thika",
+    "state": "Kenya",
+    "zipCode": "2060",
+    "country": "Kenya"
+  },
+  "billingAddress": {
+    "name": "Peter Okemwa",
+    "street": "3370",
+    "city": "Thika",
+    "state": "Kenya",
+    "zipCode": "2060",
+    "country": "Kenya"
+  },
+  "paymentMethod": {
+    "type": "mpesa",
+    "details": {
+      "transactionId": "ws_CO_18092025115246471743103687"
+    }
+  },
+  "pricing": {
+    "subtotal": 70000,
+    "tax": 5600,
+    "shipping": 0,
+    "total": 75600,
+    "discount": 0
+  },
+  "status": "delivered",
+  "createdAt": {
+    "$date": "2025-09-18T08:53:44.439Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-23T16:15:46.481Z"
+  },
+  "orderNumber": "ORD-1758185624475-0004",
+  "__v": 0,
+  "deliveredAt": {
+    "$date": "2025-09-23T16:15:46.478Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d1233324dab17e7f6ec910"
+  },
+  "user": {
+    "$oid": "68c6615f51f58af228cd6401"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "68cbdf15d4a0a8b3c988e5e9"
+      },
+      "quantity": 1,
+      "price": 75000,
+      "name": "Apple iPhone 12",
+      "image": "/uploads/images-1758191364963-765706721.jpeg",
+      "_id": {
+        "$oid": "68d1233324dab17e7f6ec911"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Peter Okemwa",
+    "street": "3370",
+    "city": "Thika",
+    "state": "Kenya",
+    "zipCode": "2060",
+    "country": "Kenya"
+  },
+  "billingAddress": {
+    "name": "Peter Okemwa",
+    "street": "3370",
+    "city": "Thika",
+    "state": "Kenya",
+    "zipCode": "2060",
+    "country": "Kenya"
+  },
+  "paymentMethod": {
+    "type": "mpesa",
+    "details": {
+      "transactionId": "ws_CO_22092025132128572713990730"
+    }
+  },
+  "pricing": {
+    "subtotal": 75000,
+    "tax": 6000,
+    "shipping": 0,
+    "total": 81000,
+    "discount": 0
+  },
+  "status": "delivered",
+  "createdAt": {
+    "$date": "2025-09-22T10:21:39.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-23T16:15:43.969Z"
+  },
+  "orderNumber": "ORD-1758536499162-0005",
+  "__v": 0,
+  "deliveredAt": {
+    "$date": "2025-09-23T16:15:43.967Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d1294cb987773892dbbb30"
+  },
+  "user": {
+    "$oid": "68c6615f51f58af228cd6401"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "68cbeb06d4a0a8b3c988e6f9"
+      },
+      "quantity": 1,
+      "price": 7000,
+      "name": "Apple MagSafe Charger",
+      "image": "/uploads/images-1758194326703-281794782.jpeg",
+      "_id": {
+        "$oid": "68d1294cb987773892dbbb31"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Peter Okemwa",
+    "street": "3370",
+    "city": "Thika",
+    "state": "Kenya",
+    "zipCode": "2060",
+    "country": "Kenya"
+  },
+  "billingAddress": {
+    "name": "Peter Okemwa",
+    "street": "3370",
+    "city": "Thika",
+    "state": "Kenya",
+    "zipCode": "2060",
+    "country": "Kenya"
+  },
+  "paymentMethod": {
+    "type": "mpesa",
+    "details": {
+      "transactionId": "ws_CO_22092025134737555713990730"
+    }
+  },
+  "pricing": {
+    "subtotal": 7000,
+    "tax": 560,
+    "shipping": 500,
+    "total": 8060,
+    "discount": 0
+  },
+  "status": "delivered",
+  "createdAt": {
+    "$date": "2025-09-22T10:47:40.072Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-23T16:15:40.878Z"
+  },
+  "orderNumber": "ORD-1758538060081-0006",
+  "__v": 0,
+  "deliveredAt": {
+    "$date": "2025-09-23T16:15:40.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d3a30da47b2a87f5df15a7"
+  },
+  "user": {
+    "$oid": "68c411f48100ac90f31bb708"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "68d247f3bc0db52686ef4e30"
+      },
+      "quantity": 1,
+      "price": 37000,
+      "name": "Apple iPhone 11",
+      "image": "/uploads/images-1758612080056-644648936.jpg",
+      "_id": {
+        "$oid": "68d3a30da47b2a87f5df15a8"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Peter Okemwa",
+    "street": "3370",
+    "city": "Thika",
+    "state": "Kenya",
+    "zipCode": "2060",
+    "country": "Kenya"
+  },
+  "billingAddress": {
+    "name": "Peter Okemwa",
+    "street": "3370",
+    "city": "Thika",
+    "state": "Kenya",
+    "zipCode": "2060",
+    "country": "Kenya"
+  },
+  "paymentMethod": {
+    "type": "mpesa",
+    "details": {
+      "transactionId": "ws_CO_24092025104813215713990730"
+    }
+  },
+  "pricing": {
+    "subtotal": 37000,
+    "tax": 2960,
+    "shipping": 0,
+    "total": 39960,
+    "discount": 0
+  },
+  "status": "processing",
+  "createdAt": {
+    "$date": "2025-09-24T07:51:41.896Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T08:55:12.747Z"
+  },
+  "orderNumber": "ORD-1758700301905-0007",
+  "__v": 0
+}]
